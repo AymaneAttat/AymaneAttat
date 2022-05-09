@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Aymane Attat
+- 📚 I’m a student at Faculty of Software engineering for the cloud at Ibn Tofail University 
+- 🌱 I’m currently working on my PFE project
+- 📫 How to reach me attat.aymane@gmail.com
+- 👀 i'm currently open for: An Intern or a new job opportunity.
+- 🧠 Always learning new things
+<!--- - 💞️ I’m looking to collaborate on ...--->
+<!---
+AymaneAttat/AymaneAttat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
