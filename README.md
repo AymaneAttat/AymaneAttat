@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aymane Attat
 - 📚 I’m a student at Faculty of Software engineering for the cloud at Ibn Tofail University 
-- 🌱 I’m currently working on my PFE project (Gestion Services de recrutement)
+- 🌱 I’m currently working on my PFE project (Gestion Services de recrutement Laravel/VueJs)
 - 👀 i'm currently open for: An Intern or a new job opportunity.
 - 📫 How to reach me attat.aymane@gmail.com
 - 📚 I’m currently learning ReactJs
